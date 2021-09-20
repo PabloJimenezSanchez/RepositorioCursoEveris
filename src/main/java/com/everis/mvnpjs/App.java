@@ -10,5 +10,6 @@ public class App
     public static void main( String[] args )
     {
     	System.out.println(StringUtils.capitalize("hello world!"));
+    	System.out.println("Hola mundo!");
     }
 }
